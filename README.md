@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Thrall** — a Software Engineering MSc student based in London, with a growing focus on **AI, data systems, and scalable software**.
+Hi, I’m **Thrall** — A Software Engineering MSc student based in London, with a growing focus on **AI, data systems, and scalable software**.
 
 I’m currently building a strong foundation in:
 
