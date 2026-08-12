@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Thrall+%F0%9F%91%8B;Machine+Learning+Engineer;Building+Things+That+Change+How+We+Think+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Mohammed+%F0%9F%91%8B;Building+Things+That+Change+How+We+Think+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Thrall** — A Software Engineering MSc student based in London, with a growing focus on **AI, data systems, and scalable software**.
+Hi, I’m **Mohammed**  A Software Engineering MSc student based in London, with a growing focus on **AI, data systems, and scalable software**.
 
 I’m currently building a strong foundation in:
 
@@ -60,7 +60,7 @@ My goal is to evolve into an engineer who understands both **how systems are bui
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/thrall966
-* Discord: Thrall966
+
 
 ---
 
